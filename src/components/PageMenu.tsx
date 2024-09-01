@@ -221,7 +221,7 @@ const PageMenu = () => {
                 <EnvelopeOpenIcon className="mr-2 h-4 w-4" /> Export
               </Button>
               <Button className="bg-black text-white px-2 py-0.5 border rounded-lg hover:bg-slate-900 border-neutral-300">
-                <FilePlusIcon className="mr-2 h-4 w-4" /> Add products
+                <FilePlusIcon className="mr-1.8 h-4 w-4" /> Add products
               </Button>
             </div>
         </TabsList>
